@@ -1,2 +1,2 @@
- Face Mask Detection Using Customized CNN 
- More details and working see the report.
+ Face Mask Detection Using Customized CNN. 
+ For more details and working of project Please see the report.
